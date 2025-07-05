@@ -1,0 +1,14 @@
+Lib
+Scripts
+Include
+share
+# Python bytecode
+__pycache__/
+*.pyc
+*.spec
+# PyInstaller build folders
+build/
+dist/
+
+# Python virtual environment
+gesture_env/
